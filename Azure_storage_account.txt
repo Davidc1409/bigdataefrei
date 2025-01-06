@@ -1,0 +1,2 @@
+URL Azure storage : https://portal.azure.com/#view/Microsoft_Azure_Storage/ContainerMenuBlade/~/overview/storageAccountId/%2Fsubscriptions%2F82f0c50b-cacb-45e9-896c-83cc5250cc05%2FresourceGroups%2Fbigdataefrei%2Fproviders%2FMicrosoft.Storage%2FstorageAccounts%2Fbigdataprojetefrei/path/data-bronze/etag/%220x8DD1D07E4A3CCC5%22/defaultEncryptionScope/%24account-encryption-key/denyEncryptionScopeOverride~/false/defaultId//publicAccessVal/None
+Key : qexMiGy313KNlsvukIhDAcTvcpgEkswIhjZvPsWI15D8V/Ag/FaOsE2A/hkkCM704wPkXKAeTQXF+ASteVzNxw==
